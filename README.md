@@ -33,6 +33,10 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="12" />
+  <img src="https://astro.js.org/astro.png" height="40" alt="astro logo"  />
+  <img width="12" />
+  <img src="(https://cp.beget.com/shared/vBjhlEhqplm8IYCNefEhGfdcySU0Xp9q/mongodb.png" height="40" alt="mongodb logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
