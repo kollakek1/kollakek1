@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Привет👋 Я kollakek!</h1>
+<h1 align="center">Привет<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> Я kollakek!</h1>
 
 ###
 
