@@ -59,3 +59,11 @@
 </div>
 
 ###
+
+<h3 align="left">📄   Последний лендинг :</h3>
+
+###
+
+<img src="https://github.com/kollakek1/kollakek1/blob/main/lending.png?raw=true" alt="lending"  />
+
+###
