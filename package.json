@@ -1,0 +1,19 @@
+{
+  "name": "projectdelta",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mineflayer": "^4.25.0",
+    "mineflayer-gui": "^3.0.2",
+    "mineflayer-movement": "^0.4.4",
+    "mineflayer-pathfinder": "^2.4.5",
+    "mineflayer-web-inventory": "^1.8.5",
+    "prismarine-viewer": "^1.29.0"
+  }
+}
