@@ -6,19 +6,19 @@
 
 ###
 
-<h1 align="center">Привет! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Я kollakek</h1>
+<h1 align="center">Hello! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Im kollakek</h1>
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👩‍💻  About me</h3>
 
 ###
 
-<p align="left">Я JavaScript разработчик, умею писать качественный код, создавать визуально привлекательные интерфейсы и разрабатывать сложные задачи. У меня есть опыт работы с различными фреймворками и библиотеками, включая React, Astro и Tailwind CSS. Я готов к сотрудничеству и готово взяться на себя любые задачи, связанные с разработкой веб-сайтов и приложений. Если у вас есть проект, который требует моей помощи, пожалуйста, свяжитесь со мной.</p>
+<p align="left">I am a passionate TypeScript Developer dedicated to writing clean, high-quality code and crafting stunning user interfaces. I specialize in solving complex engineering challenges and turning ideas into robust web applications.</p>
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠  Technology:</h3>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h3 align="left">🔥  My statistics :</h3>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="left">📄   Последний лендинг :</h3>
+<h3 align="left">📄  Last landing:</h3>
 
 ###
 
