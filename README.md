@@ -36,11 +36,3 @@
 
 
 ###
-
-<h3 align="left">📄  Last landing:</h3>
-
-###
-
-<a href="https://hydra-launcher-landing-page.vercel.app/" target="_blank"><img src="https://github.com/kollakek1/kollakek1/blob/main/landing.png?raw=true" alt="landing"  /></a>
-
-###
