@@ -22,7 +22,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nextjs,astro,tailwind,react,prisma,redis,mongodb,nodejs,py,flask,vscode,vercel,supabase,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nextjs,astro,tailwind,react,prisma,redis,mongodb,nodejs,py,vercel,supabase,rust)](https://skillicons.dev)
 
 ###
 
